@@ -1,0 +1,16 @@
+body {
+	font: 16px/28px arial, sans-serif;
+	background-color: skyblue;
+	color: #333;
+}
+
+.container {
+	width: 900px;
+	margin: auto;
+	background-image: url("pink.jpg");
+}
+
+.content p {
+	margin-left: 7px;
+	margin-right: 7px;
+}

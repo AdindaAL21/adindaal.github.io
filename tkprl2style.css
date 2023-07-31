@@ -1,0 +1,79 @@
+body {
+	background-color: #c3f1da;
+}
+
+marquee {
+	background-color: #a7cfbc;
+	font-size: 20px;
+	border-bottom: 2px solid #05321c;
+	border-top: 2px solid #05321c;
+	word-spacing: 10px;
+}
+
+button {
+	text-align: center;
+	font-size: 18px;
+	width: 190px;
+	padding: 10px;
+	outline: none;
+	overflow: hidden;
+	border-radius: 20px;
+	background: none;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #468b69
+}
+
+h1, h3 {
+	text-align: center;
+	font-family: sans-serif
+}
+
+.Jadwal {
+	margin-right: 30%;
+	margin-left: 30%;
+	text-align: center;
+	background-color: #7eb889;
+}
+
+h4 {
+	text-align: center;
+}
+
+#siswa {
+	width: 100%;
+	height: auto;
+}
+
+#siswa div {
+	width: 250px;
+	height: auto;
+	background-color: #9bd9bb;
+	border: 3px solid #165536;
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 20px;
+	font-size: 18px;
+}
+
+#siswa div ul li {
+	text-align: left;
+}
+
+#jadwalpiket div {
+	width: 250px;
+	height: auto;
+	background-color: antiquewhite;
+	border: 3px solid black;
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 20px;
+}
+
+
+
+
+
